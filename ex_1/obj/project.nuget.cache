@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "we+olw7R8GQoY1S3adk5eKdfxQfY6Kmjo478th5OcJ1/qUXDuL27GdSU+L7mBOGpLCVMyCN76tWIdh4xU+o5Cg==",
+  "success": true,
+  "projectFilePath": "C:\\workspace\\estudoPOO\\ex_1\\ex_1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sabrina\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
