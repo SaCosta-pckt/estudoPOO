@@ -2,9 +2,17 @@ namespace ex_3.src
 {
     public class Personagem
     {
-        public Personagem(){
-
+        public Personagem(string nome, int vida, int mana, float xp, int inteligencia, int forca, int level)
+        {
+            this.nome = nome;
+            this.vida = vida;
+            this.mana = mana;
+            this.xp = xp;
+            this.inteligencia = inteligencia;
+            this.forca = forca;
+            this.level = level;
         }
+
         protected string nome { get; set; } = "";
         protected int vida { get; set; }
         protected int mana { get; set; }
@@ -14,7 +22,7 @@ namespace ex_3.src
         protected int level { get; set; }
 
         public void LvlUp(){
-            
+
         }
 
         
