@@ -1,4 +1,5 @@
 ﻿using System;
+using ex_3.src;
 
 namespace ex_3
 {
