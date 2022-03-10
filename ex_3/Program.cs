@@ -9,7 +9,6 @@ namespace ex_3
     {
         static void Main(string[] args)
         {
-            //public static int contador = 0;
             //Construtor:  int vida, int mana, float xp, int inteligencia, int forca, int level
             Guerreiro g_heroi1 = new Guerreiro("Geraldo", 500, 200, 100, 5, 15);
             g_heroi1.LvlUp();
