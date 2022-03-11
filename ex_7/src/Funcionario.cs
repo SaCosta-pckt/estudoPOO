@@ -2,7 +2,7 @@ namespace ex_7.src
 {
     public class Funcionario
     {
-        public Funcionario(string nome, int idade, int salario)
+        public Funcionario(string nome, int idade, double salario)
         {
             this.nome = nome;
             this.idade = idade;
@@ -11,9 +11,9 @@ namespace ex_7.src
 
         protected string nome { get; set; }
         protected int idade { get; set; }
-        protected float salario { get; set; }
+        protected double salario { get; set; }
     
-        public virtual float Bonificacao(){
+        public virtual double Bonificacao(){
             return this.salario;
         }
     }
