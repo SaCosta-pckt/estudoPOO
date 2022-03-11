@@ -1,0 +1,16 @@
+C:\workspace\estudoPOO\ex_2\obj\Debug\net5.0\ex_2.csproj.AssemblyReference.cache
+C:\workspace\estudoPOO\ex_2\obj\Debug\net5.0\ex_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\estudoPOO\ex_2\obj\Debug\net5.0\ex_2.AssemblyInfoInputs.cache
+C:\workspace\estudoPOO\ex_2\obj\Debug\net5.0\ex_2.AssemblyInfo.cs
+C:\workspace\estudoPOO\ex_2\obj\Debug\net5.0\ex_2.csproj.CoreCompileInputs.cache
+C:\workspace\estudoPOO\ex_2\bin\Debug\net5.0\ex_2.exe
+C:\workspace\estudoPOO\ex_2\bin\Debug\net5.0\ex_2.deps.json
+C:\workspace\estudoPOO\ex_2\bin\Debug\net5.0\ex_2.runtimeconfig.json
+C:\workspace\estudoPOO\ex_2\bin\Debug\net5.0\ex_2.runtimeconfig.dev.json
+C:\workspace\estudoPOO\ex_2\bin\Debug\net5.0\ex_2.dll
+C:\workspace\estudoPOO\ex_2\bin\Debug\net5.0\ref\ex_2.dll
+C:\workspace\estudoPOO\ex_2\bin\Debug\net5.0\ex_2.pdb
+C:\workspace\estudoPOO\ex_2\obj\Debug\net5.0\ex_2.dll
+C:\workspace\estudoPOO\ex_2\obj\Debug\net5.0\ref\ex_2.dll
+C:\workspace\estudoPOO\ex_2\obj\Debug\net5.0\ex_2.pdb
+C:\workspace\estudoPOO\ex_2\obj\Debug\net5.0\ex_2.genruntimeconfig.cache

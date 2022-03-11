@@ -1,7 +1,9 @@
 namespace ex_2.src.Interfaces
 {
-    public class Imposto
+    public interface Imposto
     {
-        
+         public double CalculaImposto(){
+             return 0;
+         }
     }
 }
